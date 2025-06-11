@@ -17,6 +17,6 @@ There is some interesting information hidden around this site http://mercury.pic
 6. It gives the hint that this is an Apache server, which means it has hidden files like ```/.htaccess```, which I only found about after researching a bit.
 7. I try ```/.htaccess```, which gives me part 4 of the flag.
    ![Screenshot from 2025-06-11 19-17-37](https://github.com/user-attachments/assets/88db1b76-0c67-4952-8ef8-a772bc6ac58a)
-8. Here it states that the dev makes sites on Mac and (DID YOU KNOW) Mac has a file where it stores data called as ```/.DS_Store```, which I access. This gives me the final part of the flag.
+8. Here it states that the dev makes sites on Mac and (DID YOU KNOW>>> I DIDNT, I USE LINUX) Mac has a file where it stores data called as ```/.DS_Store```, which I access. This gives me the final part of the flag.
    ![Screenshot from 2025-06-11 19-18-38](https://github.com/user-attachments/assets/67d5c4ae-4ef2-4d32-84d1-443a7c6c8004)
 9. The flag is ```picoCTF{th4ts_4_l0t_0f_pl4c3s_2_lO0k_f7ce8828}```.
