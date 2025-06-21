@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e797825a-3649-4572-a0a9-9fc3f0d2e412)# Who Are You
+# Who Are You
 
 ##
 
@@ -6,7 +6,6 @@
 1. I open the website on my browser, but it does not allow me to access it.
 ![image](https://github.com/user-attachments/assets/ff11e5b8-d928-4e85-a345-d55fbc3ebbb4)
 2. SO I open it on Burp. Since it says ```Only people who use the official PicoBrowser are allowed on this site!```, I change the User agent to PicoBrowser.
-   ![Screenshot from 2025-04-16 19-06-19](https://github.com/user-attachments/assets/baad25ba-800f-4d6b-b678-66f7a15a245f)
 3. Now the website says I don't trust users from other sites.
    ![image](https://github.com/user-attachments/assets/ccd6d015-6544-4b17-ae8d-1ad7bf009ef3)
 4. So I add a referer which tells from which site I am accessing the website.
